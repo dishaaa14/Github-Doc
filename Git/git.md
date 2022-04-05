@@ -65,8 +65,15 @@ To be able to use GitHub, you will have to create an account first. You can do t
 [http://github.com/](http://github.com/)
 
 ### Step 2 – Fork the repository
-Click on the Fork button ![fork](
+Click on the Fork button ![fork](https://user-images.githubusercontent.com/55580805/161741123-02a2fd74-1c33-409b-8c58-8265c7fa3812.png)
 to copy the repository to your account. This will be essential for deployment to heroku. 
+
+### Step 3 – Cloning a Git Repo:
+Locate to the directory you want to clone the repo: 
+[https://github.com/orgs/BetsolLLC/repositories](https://github.com/orgs/BetsolLLC/repositories)
+
+Copy the link of the repository you want and enter the following:
+
 
 
 
