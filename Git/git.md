@@ -3,7 +3,7 @@
 2. Here’s Why:..........................................................	 2
 3. Difference between Git and GitHub....................................	 2
 4. Understanding Sections of a Git Project.............................. 	2
-5. **How to push a repository to GitHub**....................................	4
+5. How to push a repository to GitHub....................................	4
   - Step 1 – Create a GitHub account......................................	4
   - Step 2 – Fork the repository..........................................	4
   - Step 3 – Cloning a Git Repo:...........................................	4
