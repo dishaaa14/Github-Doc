@@ -1,28 +1,3 @@
-# Table of Contents
-1. What is Version Control?.....................................................................................	  2
-2. Here’s Why:..........................................................	 2
-3. Difference between Git and GitHub....................................	 2
-4. Understanding Sections of a Git Project.............................. 	2
-5. How to push a repository to GitHub....................................	4
-  - Step 1 – Create a GitHub account......................................	4
-  - Step 2 – Fork the repository..........................................	4
-  - Step 3 – Cloning a Git Repo:...........................................	4
-
-6. Add files to the Staging Area for commit:..............................	4
-7. How to commit files in Git............................................	5
-8. Before we commit let’s see what files are staged:.....................	5
-9. Commit Changes you made to your Git Repo:.............................	5
-10. Uncommit Changes you just made to your Git Repo:......................	5
-11. Revert back to the last committed version to the Git Repo:............	6
-12. View Commit History:..................................................	6
-13. How to Pull a Repository in Git.......................................	7
-14. Here are two more useful git commands:................................	7
-15. Additional Reading:...................................................	8
-16. Git Ignore:...........................................................	8
-17. How to Use Branches in Git............................................	8
-
-
-
 
 ## What is Version Control?
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. So ideally, we can place any file in the computer on version control.
